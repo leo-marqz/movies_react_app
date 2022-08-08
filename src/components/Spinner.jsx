@@ -1,10 +1,10 @@
-import { FaSpinner } from 'react-icons/fa';
+import { ImSpinner10 } from "react-icons/im";
 import styles  from './Spinner.module.css'
 
 export function Spinner() {
   return (
     <div className={styles.spinner}>
-        <FaSpinner className={styles.spinning} size={60} />
+        <ImSpinner10 className={styles.spinning} size={60} />
     </div>
   )
 }
