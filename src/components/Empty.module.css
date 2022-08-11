@@ -1,0 +1,9 @@
+
+.empty
+{
+    display:flex;
+    justify-content: center;
+    margin: 50px;
+    font-size: 2rem;
+    text-shadow: 2px 3px 5px skyblue;
+}

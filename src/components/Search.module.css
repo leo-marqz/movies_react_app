@@ -30,11 +30,11 @@
     position:absolute;
     right: 0px;
     top:0px;
-    cursor:pointer;
+    /* cursor:pointer; */
     border:none;
     outline:none;
     background: none;
     padding:5px;
-    font-size: 19px;
+    font-size: 30px;
     color:#31061c;
 }
